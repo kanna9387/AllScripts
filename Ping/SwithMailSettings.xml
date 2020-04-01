@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwithMailSettings>
+  <ServerSettings>
+    <FromName>ping test</FromName>
+    <FromAddress>sirenalabstest@gmail.com</FromAddress>
+    <Username />
+    <Password>SirenaLabs@123</Password>
+    <ObscurePassword>False</ObscurePassword>
+    <MailServer>smtp.gmail.com</MailServer>
+    <MailServerPort>587</MailServerPort>
+    <SSL>True</SSL>
+    <Encoding />
+    <RequestReceipt>True</RequestReceipt>
+    <MessageID>False</MessageID>
+  </ServerSettings>
+  <EmailAddresses>
+    <To>SirenaLabsTest@gmail.com</To>
+    <CC />
+    <BCC />
+    <ReplyTo>sirenalabstest@gmail.com</ReplyTo>
+  </EmailAddresses>
+  <Attachments>
+    <AttachmentPath>E:\Personal\Py\Ping\Ping_Report_192.168.0.16_20190928_185309.txt</AttachmentPath>
+  </Attachments>
+  <EmailContent>
+    <HTML>False</HTML>
+    <DontReplaceNewLine>False</DontReplaceNewLine>
+    <Subject>ping test result</Subject>
+    <Body />
+    <BodyTxtFile />
+  </EmailContent>
+</SwithMailSettings>
